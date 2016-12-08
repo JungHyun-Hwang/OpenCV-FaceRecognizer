@@ -32,7 +32,7 @@ OpenCV를 이용한 얼굴인식 및 모자이크 처리
 > <p align="center">
   <img src="https://github.com/devetude/OpenCV-FaceRecognizer/blob/master/images/configure_manager.png?raw=true" width="500"/>
 </p>
-> 5. 마지막으로 소스코드의 OpenCV 얼굴인식 패턴 xml 파일의 경로를 자신에 맞게 설정해줍니다.<br>
+> 5. 마지막으로 소스코드의 OpenCV **얼굴인식 패턴 xml 파일의 경로**를 자신에 맞게 설정해줍니다.<br>
 > ```c++
 #define FACE_CLASSIFIER_PATH "[OpenCV 설치경로]\\sources\\data\\haarcascades\\haarcascade_frontalface_default.xml"
 ```
